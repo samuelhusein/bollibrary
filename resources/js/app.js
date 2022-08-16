@@ -156,7 +156,7 @@ function App(){
          </li>
           </ul>
         </div>
-        <div className="h-screen flex-0 p-7">
+        <div className="h-screen flex-1 p-7">
         <Routes>
             <Route path="/" element={<Home /> } />
             {/* <Route path="/Serial" element={<Serial /> } />
